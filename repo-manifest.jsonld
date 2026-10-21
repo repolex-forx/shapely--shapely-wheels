@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/shapely/shapely-wheels/commit/33ad6aa77f146359307857cd48770ddb89a51e4e",
       "git:hexsha": "33ad6aa77f146359307857cd48770ddb89a51e4e",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
