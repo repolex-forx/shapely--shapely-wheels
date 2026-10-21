@@ -1,0 +1,11 @@
+{
+  "org": "shapely",
+  "repo": "shapely-wheels",
+  "versions": [
+    {
+      "commit": "33ad6aa77f146359307857cd48770ddb89a51e4e",
+      "tag": "",
+      "parsed_at": "2026-10-21T03:08:51.994968+00:00"
+    }
+  ]
+}
