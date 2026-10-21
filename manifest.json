@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "shapely",
+  "repo": "shapely-wheels",
+  "versions": [
+    {
+      "commit": "33ad6aa77f146359307857cd48770ddb89a51e4e",
+      "parsed_at": "2026-10-21T03:06:34.760621+00:00",
+      "filetree": "filetree/33ad6aa77f146359307857cd48770ddb89a51e4e.nq.gz",
+      "blobs": [
+        "blob/df896639555fb66bd5011877f594644ccdc0bca2.nq.gz",
+        "blob/009792c90f3a95825e5294c5a2e011f5b859041f.nq.gz",
+        "blob/70065d7d6ce19352026a97749424685d3d451c60.nq.gz",
+        "blob/cb352a5edc77f4b71633c27e4a2920f3100ddfa5.nq.gz",
+        "blob/0194389e2f419c7ab72dac455de506cd469e2193.nq.gz",
+        "blob/bbb46635e1869b204cd6648836948eee7ecdb9d7.nq.gz",
+        "blob/6a3c91b75480d1b4eb8202c5cc8c1c992e46d69b.nq.gz",
+        "blob/4dbaf2723cbd52188f32eb633ce061db8436c70d.nq.gz",
+        "blob/e076b254cddd92c42d1819e669c05dbd0f410151.nq.gz",
+        "blob/609d141dee4ac5b399d0c4cda1ab2998a30b6699.nq.gz",
+        "blob/f564c2fe74f5abb33bba79ef82e5427058d5964d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
